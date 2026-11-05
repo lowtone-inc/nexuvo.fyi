@@ -1,6 +1,7 @@
 ---
 title: '사주마을 능면승 내돈내산 후기ㅣ얼굴에 낙인 찍힌 스님이 내 카톡 습관까지 앎;;'
 description: '인스타 광고 보고 눌러본 사주마을 능면승 내돈내산 후기. 얼굴에 낙인 찍힌 스님이 카톡 습관까지 짚어줌.'
+image: /images/saju-maeul-neungmyeonseung-review/01.jpg
 pubDate: 2026-11-05T10:00:00+09:00
 category: daily
 tags: ['사주마을', '능면승', '능면승후기', '사주후기', '인스타사주', '내돈내산사주']

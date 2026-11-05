@@ -1,8 +1,8 @@
 export const SITE = {
-  title: 'LOWTONE Blog',
-  tagline: '카테고리별로 정리하는 기술 블로그',
-  description: '카테고리별로 정리하는 LOWTONE 기술 블로그',
-  author: 'LOWTONE',
+  title: 'nexuvo',
+  tagline: '카테고리별로 정리하는 블로그',
+  description: '개발 · 디자인 · 일상 이야기를 카테고리별로 정리하는 블로그',
+  author: 'nexuvo',
   locale: 'ko-KR',
   postsPerPage: 10,
   // 글별 이미지가 없을 때 쓰는 공유 이미지 (public/ 기준 경로)
