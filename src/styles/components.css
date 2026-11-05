@@ -10,6 +10,22 @@
   box-shadow: var(--shadow-raised);
 }
 
+/* 카드 어디를 눌러도 글로 이동: 제목 링크를 카드 전체로 늘린다. 카테고리 배지는 위에 둬서 따로 눌린다. */
+.post-card {
+  position: relative;
+  cursor: pointer;
+}
+.post-card__title a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+}
+.post-card .category-badge {
+  position: relative;
+  z-index: 1;
+}
+
 .site-header {
   position: sticky;
   top: 0;
