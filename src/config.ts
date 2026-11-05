@@ -1,7 +1,7 @@
 export const SITE = {
   title: 'nexuvo',
   tagline: '카테고리별로 정리하는 블로그',
-  description: '개발 · 디자인 · 일상 이야기를 카테고리별로 정리하는 블로그',
+  description: '일상과 직접 해 본 것들을 카테고리별로 정리하는 블로그',
   author: 'nexuvo',
   locale: 'ko-KR',
   postsPerPage: 10,
