@@ -1,6 +1,6 @@
 # nexuvo.fyi
 
-Astro 기반 정적 블로그 (LOWTONE Blog). `main` 브랜치에 merge/push하면 GitHub Actions로 GitHub Pages에 자동 배포됩니다.
+Astro 기반 정적 블로그 (nexuvo). `main` 브랜치에 merge/push하면 GitHub Actions로 GitHub Pages에 자동 배포됩니다.
 
 ## 개발
 
